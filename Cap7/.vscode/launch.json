@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlanefinderApplication<planefinder>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.thehecklers.planefinder.PlanefinderApplication",
+            "projectName": "planefinder",
+            "args": ""
+        }
+    ]
+}
